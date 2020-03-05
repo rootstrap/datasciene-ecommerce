@@ -1,4 +1,4 @@
-# E-commerce Data 
+**THIS IS A WORK IN PROGRESS**
 
 
 The data is from a kaggle competition, you can find it here : https://www.kaggle.com/carrie1/ecommerce-data/kernels  
