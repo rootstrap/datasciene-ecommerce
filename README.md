@@ -24,5 +24,7 @@ The examples provided are:
 4. [Classification:](classification.ipynb) classify sales according to the money spent 
 5. [Recommender System:](recommender-system.ipynb) generate recommendations based on the users' history 
 
+
 The examples 2,3,4 and 5 use the cleaned data result from the data cleaning process.
 
+**TODO: document how to create environment*
