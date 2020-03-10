@@ -27,4 +27,4 @@ The examples provided are:
 
 The examples 2,3,4 and 5 use the cleaned data result from the data cleaning process.
 
-**TODO: document how to create environment*
+**TODO: document how to create environment**
