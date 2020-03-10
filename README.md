@@ -16,3 +16,14 @@ It contians information from transactions from a UK retailer. The fields are:
 - UnitPrice: price of the product
 - CustomerID: customer identifier 
 - Country: country that purchase took place
+
+The examples provided are: 
+
+1. [Data Cleaning:](data_cleaning.ipynb) clean the data, filling missing inforation
+2. Data Exploration: see how the data is distributed, find outliers  
+3. Clustering: perform clustering methods to find patterns in the data
+4. Classification: classify sales according to the money spent 
+5. Recommender System: generate recommendations based on the users' history 
+
+The examples 2,3,4 and 5 use the cleaned data result from the data cleaning process.
+
