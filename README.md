@@ -1,4 +1,5 @@
 
+This is an experiment to process e-commerce data. The repo contains examples of how to apply machine learning algorithms with this type of data. 
 
 The data is from a kaggle competition, you can find it here : https://www.kaggle.com/carrie1/ecommerce-data/kernels  
 
@@ -27,4 +28,4 @@ The examples provided are:
 
 The examples 2,3,4 and 5 use the cleaned data result from the data cleaning process.
 
-**TODO: document how to create environment**
+
