@@ -1,0 +1,12 @@
+notebook
+matplotlib
+pandas
+sklearn
+kneed
+geopandas
+wordcloud
+nltk
+descartes
+seaborn
+surprise
+
