@@ -17,6 +17,19 @@ It contians information from transactions from a UK retailer. The fields are:
 - CustomerID: customer identifier 
 - Country: country that purchase took place
 
+
+## Create virtualenv
+
+```bash
+	virtualenv venv 
+	source venv/bin/activate
+	pip install -r requirements.txt 
+```
+## Start jupyter 
+```bash
+	jupyter-notebook
+```
+
 The examples provided are: 
 
 1. [Data Cleaning:](data_cleaning.ipynb) clean the data, filling missing inforation
